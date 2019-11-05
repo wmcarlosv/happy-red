@@ -1,0 +1,7 @@
+name: happyred
+recipe: laravel
+config:
+  webroot: public
+services:
+  my-service:
+    type: phpmyadmin:4.7
